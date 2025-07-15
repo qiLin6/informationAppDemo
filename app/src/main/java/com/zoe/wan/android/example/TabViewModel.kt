@@ -6,4 +6,5 @@ import com.zoe.wan.base.BaseViewModel
 
 class TabViewModel(application: Application) :BaseViewModel(application){
 
+    //aaa
 }
